@@ -1,0 +1,52 @@
+﻿h1 {
+    font-weight: bold;
+	}
+
+input {
+    width: 125px;
+    height: 75px;
+    display: inline-block;
+	}
+
+.one {
+    background-color: red;
+	}
+
+
+.two {
+    background-color: blue;
+	}
+
+.three {
+    background-color: green;
+	}
+
+#spin {
+    background-color: lightgreen;
+    padding: 10px 25px;
+    text-align: center;
+    font-size: 16px;
+    margin: 2px 2px;
+	}
+
+    #spin:hover {
+        background-color: darkgreen;
+        font-size: 25px;
+    }
+
+p#see {
+    font-size: 25px;
+    background-color: red;
+    width: 125px;
+	}
+
+#quit {
+    padding: 10px 25px;
+    text-align: center;
+    font-size: 12px;
+    margin: 2px 2px;
+	}
+
+button {
+    margin: 30px;
+	}
