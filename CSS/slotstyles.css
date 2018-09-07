@@ -29,12 +29,12 @@ input {
     margin: 2px 2px;
 	}
 
-    #spin:hover {
+#spin:hover {
         background-color: darkgreen;
         font-size: 25px;
     }
 
-p#see {
+#sayGoodBye {
     font-size: 25px;
     background-color: red;
     width: 125px;
